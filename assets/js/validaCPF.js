@@ -50,10 +50,10 @@ class ValidaCPF {
 
 }
 
-const validar = new ValidaCPF('123.456.789-09');
+/*const validar = new ValidaCPF('123.456.789-09');
 
 if(validar.valida()){
     console.log('CPF VÁLIDO');
 } else {
     console.log('CPF inválido');
-}
+}*/
